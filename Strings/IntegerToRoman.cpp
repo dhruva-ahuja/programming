@@ -4,7 +4,7 @@
 using namespace std;
 
 /*
-    The eureka of this probel is to realize the pattern:
+    The eureka of this problem is to realize the pattern:
     I can precede V and X
     X can precede L and C
     C can precede D and M
