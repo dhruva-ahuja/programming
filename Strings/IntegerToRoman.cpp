@@ -4,8 +4,7 @@
 using namespace std;
 
 /*
-    The main insight of this algorithm is to eureka the 
-    pattern which implies
+    The eureka of this probel is to realize the pattern:
     I can precede V and X
     X can precede L and C
     C can precede D and M
